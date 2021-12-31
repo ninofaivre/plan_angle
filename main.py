@@ -1,3 +1,4 @@
+#!python3
 from calculation import *
 
 position = [0,0]
